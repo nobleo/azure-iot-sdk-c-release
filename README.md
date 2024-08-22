@@ -1,3 +1,26 @@
+## azure-iot-sdk-c (iron) - 1.14.0-2
+
+The packages in the `azure-iot-sdk-c` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron azure-iot-sdk-c` on `Thu, 22 Aug 2024 06:24:03 -0000`
+
+The `azure-iot-sdk-c` package was released.
+
+Version of package(s) in repository `azure-iot-sdk-c`:
+
+- upstream repository: https://github.com/Azure/azure-iot-sdk-c.git
+- release repository: https://github.com/nobleo/azure-iot-sdk-c-release.git
+- rosdistro version: `1.14.0-1`
+- old version: `1.14.0-1`
+- new version: `1.14.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## azure-iot-sdk-c (iron) - 1.14.0-1
 
 The packages in the `azure-iot-sdk-c` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron azure-iot-sdk-c` on `Wed, 21 Aug 2024 06:52:12 -0000`
